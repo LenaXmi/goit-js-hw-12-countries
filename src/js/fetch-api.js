@@ -32,7 +32,7 @@ function renderCountryCard(country) {
     refs.card.innerHTML = listMarkup;
   } else if (length > 10) {
        refs.card.innerHTML = '';
-notificaton()
+notification()
  
   }
 }
